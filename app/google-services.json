@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99600289385",
+    "firebase_url": "https://dbtest3-70cc5.firebaseio.com",
+    "project_id": "dbtest3-70cc5",
+    "storage_bucket": "dbtest3-70cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99600289385:android:0d9fbb78b4419005cc9cf8",
+        "android_client_info": {
+          "package_name": "com.example.dbtest3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99600289385-nbebr8fe814uo8220t4fglvgl32t2ivt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTz8kGo7Mox9q8XQjo20k7aHHY0Rzqgh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99600289385-nbebr8fe814uo8220t4fglvgl32t2ivt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
